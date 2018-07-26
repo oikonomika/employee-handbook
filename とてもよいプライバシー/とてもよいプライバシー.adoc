@@ -1,5 +1,7 @@
 = とてもよいプライバシー =
 :doctype: book
+:sectnums:
+:toc:
 :author: 合同会社オイコノミカ
 :experimental:  
 
